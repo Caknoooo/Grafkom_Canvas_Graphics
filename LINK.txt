@@ -1,0 +1,2 @@
+Link Deployment: https://grafkom-canvas-graphics.vercel.app/
+Link Github / Source Code: https://github.com/Caknoooo/Grafkom_Canvas_Graphics
