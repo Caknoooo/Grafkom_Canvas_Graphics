@@ -11,10 +11,10 @@ Tahun   : 2023 / 2024 (Ganjil)
 
 ## Expected Output 
 <div align="center">
-  <img src="https://github.com/Caknoooo/Grafkom_Canvas_Graphics/assets/92671053/af3d163c-79ee-4b4a-989b-4f0e6e57bf39">
+  <img src="https://github.com/Caknoooo/Grafkom_Canvas_Graphics/assets/92671053/96eaf542-1b83-4f24-aead-14078a718d70">
 </div>
 
 ## Result 
 <div align="center">
-  <img src="https://github.com/Caknoooo/Grafkom_Canvas_Graphics/assets/92671053/2fcf089d-b6a5-47c7-8619-2a538084cf49">
+  <img src="https://github.com/Caknoooo/Grafkom_Canvas_Graphics/assets/92671053/845ebe05-1461-43bb-a8bd-0bb360ff9c46">
 </div>
